@@ -13,6 +13,9 @@ layout: home
     <label>Email: <input type="text" name="email" size="40"></label>
   </p>
   <p>
+    <label>Accept terms <input type="checkbox" name="Terms accepted"></label>
+  </p>
+  <p>
     <button type="submit">Send</button>
   </p>
 </form>
